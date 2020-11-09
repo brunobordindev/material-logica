@@ -1,6 +1,7 @@
 # Lógica de Programação 👽💜🎓
 
 ![Badge_Version](https://img.shields.io/badge/Version-1.0-ED2B88.svg)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/adrianoleitedasilva/material-logica?color=662C91&label=Size)
 ![Badge_Passing](https://img.shields.io/badge/Build-Passing-88CE02.svg)
 ![Badge_CodeQuality](https://img.shields.io/badge/CodeQuality-Good-F44A6A.svg)
 ![Badge_VSCode](https://img.shields.io/badge/MadeWith-VisualG-007ACC.svg)
