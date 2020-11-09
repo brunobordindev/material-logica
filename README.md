@@ -3,7 +3,7 @@
 ![Badge_Version](https://img.shields.io/badge/Version-1.0-ED2B88.svg)
 ![Badge_Passing](https://img.shields.io/badge/Build-Passing-88CE02.svg)
 ![Badge_CodeQuality](https://img.shields.io/badge/CodeQuality-Good-F44A6A.svg)
-![Badge_VSCode](https://img.shields.io/badge/MadeWith-VSCode-007ACC.svg)
+![Badge_VSCode](https://img.shields.io/badge/MadeWith-VisualG-007ACC.svg)
 ![Badge_PHP](https://img.shields.io/badge/Language-Portugol-00B8FC.svg)
 ![Badge_Project](https://img.shields.io/badge/Projeto-Lógica-1ED760.svg)
 ![Badge_Project](https://img.shields.io/badge/Dev-AdrianoLeitedaSilva-00A98F.svg)
