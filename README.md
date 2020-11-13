@@ -16,14 +16,28 @@ Copie todos os exercícios, faça, refaça e refaça novamente, até que tudo fi
 ![image](https://user-images.githubusercontent.com/6373438/98488870-3d655300-220a-11eb-9877-107a184487bf.png)
 
 ## Como utilizar? 🗿
+
 Copie este repositório para o seu computador e abra os códigos dentro do [VisualG](https://visualg3.com.br/baixe-o-visualg-3-0-7/), que voce encontra no link ao lado. Basta baixar, descompactar e abrir o programa.
 
 Ele é relativamente leve e __NÃO COSTUMA__ travar. Mas caso isso aconteça, feche o programa e abra novamente.
 
 ### O VisualG
+
 Observando a dificuldade dos estudantes de Computação em entender programação, o ex-aluno do Campus Gaspar e professor universitário, Antônio C. Nicolodi, criou o VisuAlg 3.0, um software, gratuito, que permite ao usuário acompanhar, passo a passo, o processo de criação de aplicativos para computadores e outros dispositivos eletrônicos, como celulares ou tablets. O sucesso do programa foi tanto que já chegou a mais de 1 milhão de downloads
 
+## Como contribuir? ✌️
+
+Contribuições são sempre bem-vindas. Existem várias maneiras de contribuir com este projeto, como:
+
+- 💪 Se juntando ao time de desenvolvimento
+- 🌟 Dando uma estrela no projeto
+- 🐛 Reportando um Bug
+- 😅 Indicando um vacilo que eu possa ter cometido
+- 📄 Ajudando a melhorar a documentação a documentação
+- 🚀 Compartilhando este projeto com seus amigos
+
 ## Status do Projeto 🔜
+
 Esse repo está sendo criado e alimentado aos pouquinhos, tenha paciência, por favor. 😍😁💜👽
 
 ## Contato <img src="https://github.com/adrianoleitedasilva/adrianoleitedasilva/blob/main/hey.gif?raw=true" width="32px">
