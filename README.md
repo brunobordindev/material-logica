@@ -1,31 +1,51 @@
-# Lógica de Programação 👽💜🎓
+# Material Lógica
 
-![Badge_Version](https://img.shields.io/badge/Version-1.0-ED2B88.svg)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/adrianoleitedasilva/material-logica?color=662C91&label=Size)
-![Badge_Passing](https://img.shields.io/badge/Build-Passing-88CE02.svg)
-![Badge_CodeQuality](https://img.shields.io/badge/CodeQuality-Good-F44A6A.svg)
-![Badge_VSCode](https://img.shields.io/badge/MadeWith-VisualG-007ACC.svg)
-![Badge_PHP](https://img.shields.io/badge/Language-Portugol-00B8FC.svg)
-![Badge_Project](https://img.shields.io/badge/Projeto-Lógica-1ED760.svg)
-![Badge_Project](https://img.shields.io/badge/Dev-AdrianoLeitedaSilva-00A98F.svg)
+Aqui temos todos os materiais de Lógica que utilizo nas minhas aulas de desenvolvimento de sistemas.
 
-Aqui temos todos os materiais que utilizo para falar sobre Lógica de Programação em minhas aulas.
+![image](https://user-images.githubusercontent.com/6373438/107370421-b7cf9880-6ac1-11eb-9118-196050c5b178.png)
 
-Copie todos os exercícios, faça, refaça e refaça novamente, até que tudo fique bem simples para você.
+![Version](https://img.shields.io/badge/Version-1.0.0-F21B3F) ![Build](https://img.shields.io/badge/Build-Passing-29BF12) ![Projeto](https://img.shields.io/badge/Projeto-Material_Logica-08BDBD) ![Code_Quality](https://img.shields.io/badge/Code_Quality-Good-3A5683) ![Languange JS](https://img.shields.io/badge/Language-Portugol-F7DF1E) 
 
-![image](https://user-images.githubusercontent.com/6373438/98488870-3d655300-220a-11eb-9877-107a184487bf.png)
+# Conteúdos
+- [Introdução](#introdução)
+- [Uso](#uso)
+- [Suporte](#suporte)
+- [Roadmap](#roadmap)
+- [Como contribuir](#como-contribuir)
+- [Licença](#licença)
+- [Status do Projeto](#status-do-projeto)
 
-## Como utilizar? 🗿
+## Introdução
 
-Copie este repositório para o seu computador e abra os códigos dentro do [VisualG](https://visualg3.com.br/baixe-o-visualg-3-0-7/), que voce encontra no link ao lado. Basta baixar, descompactar e abrir o programa.
+Lógica de programação é a organização coesa de uma sequência de instruções voltadas à resolução de um problema, ou à criação de um software ou aplicação.
 
-Ele é relativamente leve e __NÃO COSTUMA__ travar. Mas caso isso aconteça, feche o programa e abra novamente.
+A lógica de programação é importante porque é ela quem nos dá as ferramentas necessárias para executar o processo mais básico no desenvolvimento de alguma aplicação: a criação de seu algoritmo.
 
-### O VisualG
+Antes de criar um software do zero, ou de resolver um problema de um já existente, é necessário descascá-lo até chegarmos ao seu núcleo.
 
-Observando a dificuldade dos estudantes de Computação em entender programação, o ex-aluno do Campus Gaspar e professor universitário, Antônio C. Nicolodi, criou o VisuAlg 3.0, um software, gratuito, que permite ao usuário acompanhar, passo a passo, o processo de criação de aplicativos para computadores e outros dispositivos eletrônicos, como celulares ou tablets. O sucesso do programa foi tanto que já chegou a mais de 1 milhão de downloads
+## Uso
 
-## Como contribuir? ✌️
+Esse material tem como intuito ajudar novos desenvolvedores a evoluir no processo de criação de códigos. Dessa forma podem criar sistemas nas mais diversas linguagens de programação.
+
+## Suporte
+
+Para falar comigo você pode utilizar Redes Sociais abaixo... 
+
+[![Subscribe on Youtube](https://img.shields.io/badge/--youtube?label=Youtube&logo=Youtube&style=social)](https://www.youtube.com/adrianoleitedasilva/) [![Follow on Behance](https://img.shields.io/badge/--behance?label=Behance&logo=Behance&style=social)](https://www.behance.net/silvaadrianleite) [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/_adrianosilva89) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/adrianoleitedasilva/)
+
+... ou pode enviar um e-mail para [hey@adrianosilva.dev.br](hey@adrianosilva.dev.br). Vou adorar falar com você.
+## Roadmap
+
+Aqui vou colocando todos os algoritmos e exemplos e exercícios que irei disponibilizar para estudo.
+
+- Introdução
+    - ***Descrição:*** Nessa pasta vão ficar todos os arquivos de introdução à Lógica de Programação. Todos os passos iniciais que damos no começo do desenvolvimento/aprendizado.
+- Condicionais
+    - ***Descrição:*** Vamos armazenar aqui todos os arquivos sobre estruturas condicionais. 
+- Laçõs de Repetição
+    - ***Descrição:*** Nessa iremos colocar todos os arquivos correspondentes aos laços/estruturas de Repetição.
+
+## Como contribuir
 
 Contribuições são sempre bem-vindas. Existem várias maneiras de contribuir com este projeto, como:
 
@@ -36,15 +56,10 @@ Contribuições são sempre bem-vindas. Existem várias maneiras de contribuir c
 - 📄 Ajudando a melhorar a documentação.
 - 🚀 Compartilhando este projeto com seus amigos.
 
-## Status do Projeto 🔜
+## Licença
 
-Esse repo está sendo criado e alimentado aos pouquinhos, tenha paciência, por favor. 😍😁💜👽
+MIT.
 
-## Contato <img src="https://github.com/adrianoleitedasilva/adrianoleitedasilva/blob/main/hey.gif?raw=true" width="32px">
+## Status do Projeto
 
-Para falar comigo você pode mandar um e-mail para adrianoleitedasilva@outlook.com ou me encontrar em uma das redes abaixo:
-
-[![Subscribe on Youtube](https://img.shields.io/badge/--youtube?label=Youtube&logo=Youtube&style=social)](https://www.youtube.com/adrianoleitedasilva/)
-[![Follow on Behance](https://img.shields.io/badge/--behance?label=Behance&logo=Behance&style=social)](https://www.behance.net/silvaadrianleite)
-[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/_adrianosilva89) 
-[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/adrianoleitedasilva/)
+Projeto ainda em Desenvolvimento.
